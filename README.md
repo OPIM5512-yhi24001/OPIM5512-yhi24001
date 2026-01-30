@@ -1,6 +1,5 @@
 ## HELLO!!! 👋
 
-<!--
 ## I am Arijita!!👋
 
 ##- 🎓 I’m currently a student at University of Connecticut (UCONN) pursuing MS in Business Analytics & Project Management (BAPM) (3rd Semester)
